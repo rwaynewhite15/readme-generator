@@ -1,6 +1,6 @@
 # Readme Generator
 
-  ## This application uses the command line to gather user input to create a readme file.
+  ## This application uses the command line to gather input from a user and generate a readme file for a project.
 
   <br>
 
@@ -23,7 +23,7 @@
   Install node js. Install fs and inquirer packages.
 
   # Usage
-  ![alt text](assets/images/.screenshot.jpg)
+  ![alt text](assets/images/screenshot.jpg)
   
   # Contribution
   None
@@ -44,8 +44,4 @@
   Please visit my [GitHub](https://github.com/rwaynewhite15) to view my work.
   
   # Email
-  ## rwaynewhite15@gmail.com
-
-
-  # Video
-  [Demonstration Video](https://drive.google.com/file/d/1JuxHnCx5rqQa6p7iBBnxoiQ6lM4Md03t/view)
+  ## rwaynewhite@gmail.com
