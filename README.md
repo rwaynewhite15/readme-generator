@@ -1,5 +1,51 @@
-# BObb
+# Readme Generator
 
-## Description
+  ## This application uses the command line to gather user input to create a readme file.
 
-asdlifubasdfsadlofunsdfailunasdf
+  <br>
+
+  # Table of Contents:
+  * [Title](#Title)
+  * [Description](#Description)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Contribution](#Contribution)
+  * [Tests](#Tests)
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Github](#Github)
+  * [Email](#Email)
+  
+  # Owned By:
+  Robert White
+
+  # Installation
+  Install node js. Install fs and inquirer packages.
+
+  # Usage
+  ![alt text](assets/images/.screenshot.jpg)
+  
+  # Contribution
+  None
+
+  # Tests
+  None
+  
+  # License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <br>
+  The MIT License
+  
+  <br>
+
+  # Please Contact me with any questions
+
+  # Github
+  Please visit my [GitHub](https://github.com/rwaynewhite15) to view my work.
+  
+  # Email
+  ## rwaynewhite15@gmail.com
+
+
+  # Video
+  [Demonstration Video](https://drive.google.com/file/d/1JuxHnCx5rqQa6p7iBBnxoiQ6lM4Md03t/view)
