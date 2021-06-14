@@ -11,7 +11,6 @@
   * [Usage](#Usage)
   * [Contribution](#Contribution)
   * [Tests](#Tests)
-  * [Usage](#Usage)
   * [License](#License)
   * [Github](#Github)
   * [Email](#Email)
@@ -45,7 +44,7 @@
   
   # Email
   ## rwaynewhite@gmail.com
-  
+
 <br>
 <br>
 <br>

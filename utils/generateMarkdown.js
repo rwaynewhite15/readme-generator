@@ -13,7 +13,6 @@ function generateMarkdown(data) {
   * [Usage](#Usage)
   * [Contribution](#Contribution)
   * [Tests](#Tests)
-  * [Usage](#Usage)
   * [License](#License)
   * [Github](#Github)
   * [Email](#Email)
