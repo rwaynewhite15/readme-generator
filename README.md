@@ -1,6 +1,6 @@
-# Readme Generator
+# 5S
 
-  ## This application uses the command line to gather input from a user and generate a readme file for a project.
+  ## 5S is a Tool for Life
 
   <br>
 
@@ -16,19 +16,19 @@
   * [Email](#Email)
   
   # Owned By:
-  Robert White
+  Robert
 
   # Installation
-  Install node js. Install fs and inquirer packages.
+  https://sebastianbrau.com/wp-content/uploads/2017/03/5s-circle.gif
 
   # Usage
-  ![alt text](assets/images/screenshot.jpg)
+  ![alt text](assets/images/)
   
   # Contribution
-  None
+  
 
   # Tests
-  None
+  
   
   # License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -43,10 +43,4 @@
   Please visit my [GitHub](https://github.com/rwaynewhite15) to view my work.
   
   # Email
-  ## rwaynewhite@gmail.com
-
-<br>
-<br>
-<br>
-
-  # [App Demonstration Video](https://drive.google.com/file/d/1JuxHnCx5rqQa6p7iBBnxoiQ6lM4Md03t/view)
+  ## 
